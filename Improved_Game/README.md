@@ -1,6 +1,9 @@
 # Improved Game (Optimized MIPS Assembly Platformer)
 
-This version of the platformer game has been heavily optimized with a deep focus on **Computer Architecture, CPU Pipelining, and Memory Hierarchy (L1 Cache)**. Rather than relying on standard high-level programming paradigms, the code is structured to minimize hardware-level bottlenecks during execution on a MIPS32 processor.
+This version of the platformer game has been heavily optimized with a deep focus on **Computer Architecture, CPU Pipelining, and Memory Hierarchy (L1 Cache)**. 
+
+**Acknowledgements & Reference:**
+The baseline architecture and initial inspiration for this project were referenced from [prokopchukdim/Assembly-Platformer](https://github.com/prokopchukdim/Assembly-Platformer). Building upon that excellent foundation, profound architectural improvements were engineered specifically to maximize Cache Locality and minimize CPU Pipeline stalls.
 
 ## 🚀 Key Hardware-Level Optimizations
 
